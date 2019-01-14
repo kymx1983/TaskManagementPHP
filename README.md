@@ -3,7 +3,7 @@
 
 こちらのURLから動作させることができます。
 
-http://localhost/taskmanagement/task.php
+http://gevanni.sakura.ne.jp/Task.php
 
 各プログラムの説明
 
